@@ -1,5 +1,5 @@
 # SMG2-Full-Latin-MenuFont96.brfnt
-A version of MenuFont96.brfnt that contains a complete latin characterset. HD Textures included
+A version of MenuFont96.brfnt that contains a complete latin characterset.
 
 Merge the provided HD Textures with this HD Texture Pack: [SMG2 Faithful HUD Remaster](https://www.youtube.com/watch?v=_TBhu-NfrX0)
 
